@@ -5,6 +5,9 @@ example:
 User: Hi, what time does the pool open up 
 Agent: Pool opens up at 11am in the day. do you want me to book a slot for you?
 
+# Settings
+Temperature has been set to 0.5
+Top P has been set to 0.5
 
 Code:
 """Build Agent using Microsoft Agent Framework in Python
